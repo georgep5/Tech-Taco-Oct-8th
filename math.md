@@ -48,3 +48,12 @@ p_2 \\
 p_3
 \end{pmatrix}
 $$
+
+# Systems 
+
+$$
+\begin{aligned}
+3x + 2y &= 5
+x - y &= 1
+\end{aligned}
+$$
