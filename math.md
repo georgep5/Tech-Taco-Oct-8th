@@ -28,3 +28,23 @@ Keep your error, $\epsilon$, small!
 This version, $\varepsilon$, is much prettier
 
 State space $Omega, particular state
+
+# Matrices
+
+$$
+p=\begin{bmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9
+\end{bmatrix}
+$$
+
+A vector of prices :
+
+$$
+p = \begin{pmatrix}
+p_1 \\
+p_2 \\
+p_3
+\end{pmatrix}
+$$
