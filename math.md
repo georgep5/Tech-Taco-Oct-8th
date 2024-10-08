@@ -57,3 +57,10 @@ $$
 x - y &= 1
 \end{aligned}
 $$
+
+$$
+f(x) = \begin{cases}
+x^2 & \text{if } x \geq 0 \\
+-x^2 & \text{if } x < 0
+\end{cases}
+$$
